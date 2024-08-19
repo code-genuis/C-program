@@ -1,2 +1,2 @@
 # C-program
-My First program in C. 🤩
+My First program in C with cs50 library. 🤩
